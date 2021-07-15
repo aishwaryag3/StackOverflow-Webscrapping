@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="scrapped_data@scrappeddata.8uo7e.mongodb.net" uuid="48c1a2e1-a22a-45b6-a0df-576c050b667b">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://scrappeddata.8uo7e.mongodb.net/scrapped_data?retryWrites=true&amp;w=majority</jdbc-url>
+    </data-source>
+  </component>
+</project>
